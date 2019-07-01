@@ -1,6 +1,6 @@
 # Community Health Status Indicators (CHSI) to Combat Obesity, Heart Disease and Cancer
 > Metadata Updated: June 3, 2019
-
+> [Centers for Disease Control and Prevention](https://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer)
 ## Table of contents
 
 - DATA_ELEMENT_DESCRIPTION.csv - defines each data element and indicates where its description is found in Data Sources, Definitions, and Notes.
